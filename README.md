@@ -4,6 +4,9 @@ Proyecto desarrollado como parte del curriculum de **The Odin Project**, enfocad
 
 https://ignaciocastrot.github.io/Project-Calculator/ Visitar proyecto
 
+<img width="601" height="657" alt="image" src="https://github.com/user-attachments/assets/e19c48bf-f337-4eff-b28a-f82fca6d5eac" />
+
+
 ## Descripción
 
 Esta aplicación es una calculadora funcional que permite realizar operaciones matemáticas básicas directamente desde el navegador.
