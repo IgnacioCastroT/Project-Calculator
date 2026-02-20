@@ -2,6 +2,8 @@
 
 Proyecto desarrollado como parte del curriculum de **The Odin Project**, enfocado en reforzar la lógica de programación con JavaScript y la manipulación del DOM.
 
+https://ignaciocastrot.github.io/Project-Calculator/ Visitar proyecto
+
 ## Descripción
 
 Esta aplicación es una calculadora funcional que permite realizar operaciones matemáticas básicas directamente desde el navegador.
