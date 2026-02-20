@@ -41,11 +41,5 @@ El objetivo principal del proyecto fue practicar la construcción de una interfa
 
 ## Fuente
 
-Proyecto realizado siguiendo el curso de fundamentos de programación de:
-
 **The Odin Project**  
 https://www.theodinproject.com/
-
----
-
-Este proyecto forma parte de mi proceso de formación como desarrollador frontend y refuerza mi comprensión de la lógica en JavaScript.
